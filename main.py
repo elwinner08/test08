@@ -16,7 +16,7 @@ while age < 0 :
 print ('Vous avez', age, 'ans.')
 
 # On vérifie que l'utilisateur à au moins 18 ans
-if age>17 : 
-    print('Spèce dalcoolo !') 
+if age >= 18 : 
+    print('Alors profite de cette bonne bière !') 
 else :
     print('Tu es trop jeune')
